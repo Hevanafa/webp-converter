@@ -6,6 +6,8 @@ A simple WEBP to PNG converter written in VB .NET and Rust.
 
 This project uses VB .NET as the frontend and Rust as the conversion library.
 
+The WEBP icon is made by Roberto Huertas [Link](https://icon-icons.com/icon/file-type-webp/130074), converted to ICO with [ICOConvert](https://icoconvert.com/).
+
 ![Preview](./preview.png)
 
 ## Prerequisites
