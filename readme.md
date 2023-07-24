@@ -23,5 +23,5 @@ This project uses VB .NET as the frontend and Rust as the conversion library.
 5. Click `library.dll` in Project Explorer,
 6. In the Properties panel, change "Build action" to "None" and change "Copy to output directory" to "Copy if newer",
 7. Change the build profile to Release,
-8. Build
+8. Build project.
 
