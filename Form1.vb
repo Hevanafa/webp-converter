@@ -93,7 +93,11 @@ Public Class Form1
     End Sub
 
     Private Sub btnLog_Click(sender As Object, e As EventArgs) Handles btnLog.Click
-        If Not File.Exists("log.txt") Then MsgBox("Doesn't exist")
+        If Not File.Exists("log.txt") Then
+            MsgBox("Doesn't exist")
+            Exit Sub
+        End If
+
         Process.Start("log.txt")
     End Sub
 End Class
