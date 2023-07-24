@@ -1,0 +1,4 @@
+/library/target
+/bin/**
+/*.dll
+/.vs

@@ -1,0 +1,16 @@
+[package]
+name = "library"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+# Note: enable this on release
+[lib]
+crate-type = ["cdylib"]
+
+[profile.release]
+panic = "abort"
+
+[dependencies]
+image = "0.24.6"
