@@ -1,2 +1,2 @@
 cargo build --lib --release
-copy .\target\release\library.dll .\library.dll
+Copy-Item .\target\release\library.dll .\library.dll
