@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("WEBPConverter")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("WEBPConverter")>
-<Assembly: AssemblyCopyright("Copyright ©  2023")>
+<Assembly: AssemblyTitle("WEBP to PNG Converter")>
+<Assembly: AssemblyDescription("Build 24-07-2023")>
+<Assembly: AssemblyCompany("Hevanafa")>
+<Assembly: AssemblyProduct("WEBP to PNG Converter")>
+<Assembly: AssemblyCopyright("By Hevanafa")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")>
 
-<Assembly: AssemblyVersion("1.0.0.0")>
-<Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: AssemblyVersion("0.0.1.0")>
+<Assembly: AssemblyFileVersion("0.0.1.0")>
